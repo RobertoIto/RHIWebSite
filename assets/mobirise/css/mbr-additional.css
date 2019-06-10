@@ -2083,6 +2083,81 @@ body {
 .cid-rpZgFa0XX8 .user_name {
   color: #149dcc;
 }
+.cid-rsZz5q65A7 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rsZz5q65A7 h2 {
+  text-align: center;
+}
+.cid-rsZz5q65A7 h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-rsZz5q65A7 p {
+  color: #767676;
+}
+.cid-rsZz5q65A7 img {
+  object-fit: cover;
+}
+.cid-rsZz5q65A7 .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-rsZz5q65A7 .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-rsZz5q65A7 .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+.cid-rsZz5q65A7 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rsZz5q65A7 .card-title {
+  font-weight: 500;
+}
+.cid-rsZz5q65A7 .card-img {
+  text-align: inherit;
+}
+.cid-rsZz5q65A7 .card-img span {
+  font-size: 48px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-rsZz5q65A7 .mbr-figure {
+    padding-right: 2rem;
+    padding-left: 2rem;
+    height: 100%;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rsZz5q65A7 .mbr-figure {
+    padding-bottom: 2rem;
+    padding-top: 1rem;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-rsZz5q65A7 .block-content {
+    flex-direction: row;
+    -webkit-flex-direction: row;
+    text-align: center;
+  }
+  .cid-rsZz5q65A7 .block-content .card {
+    flex-basis: 100%;
+    -webkit-flex-basis: 100%;
+  }
+  .cid-rsZz5q65A7 .card:nth-child(1) {
+    padding-bottom: 0!important;
+  }
+}
 .cid-rq11ELRN4o {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2266,21 +2341,6 @@ body {
   .cid-rpZg6IWmo1 .iconfont-wrapper {
     display: none;
   }
-}
-.cid-rr7t9MGtpv {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #efefef;
-}
-.cid-rr7t9MGtpv .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rr7t9MGtpv .btn {
-  margin: 0 0 .5rem 0;
-}
-.cid-rr7t9MGtpv .content-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
 }
 .cid-rpYEskcaw0 {
   padding-top: 30px;
